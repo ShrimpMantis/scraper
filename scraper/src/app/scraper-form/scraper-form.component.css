@@ -18,10 +18,18 @@
     margin-left:1%;
     cursor: pointer;
 }
+.error-text{
+    height:100%;
+    width:100%;
+    min-height:200px;
+    font-size:20px;
+    color: crimson;
+}
 
 .result-section{
     height:100%;
     width:100%;
+    min-height:300px;
     border-style: solid;
     border-color: lightgray;
     display: flex;
@@ -74,7 +82,7 @@
 
 .loading-text{
     height:100%;
-    width:50%;
+    width:30%;
     font-size: 14px;
     text-align: center;
     color: black;

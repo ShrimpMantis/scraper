@@ -15,7 +15,10 @@
               <h2 class="result-header">Scraped results</h2>
             <div class="loading-screen" *ngIf="showLoading">
                 <div class="loading-text">Loading...</div>
+               
             </div>
+            <div class="error-text" *ngIf="isError">Error in scraping: {{errorContent}}</div>
+
             <div class="result-list-container" *ngIf="!showLoading">
                 <div class="website-result-section" *ngFor="let result of resultsDictionary | keyvalue; index as i">
                     <label class="website-url">{{result.key}}</label>
