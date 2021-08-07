@@ -1,0 +1,104 @@
+.container{
+    height:100%;
+    width:100%;
+    box-sizing: border-box;
+    padding: 3%;
+}
+.url-enty-section{
+    box-sizing: border-box;
+    padding: 1%;
+}
+
+.url-label{
+    padding:1%;
+    font-size:21px;
+}
+
+.url-submit-button{
+    margin-left:1%;
+    cursor: pointer;
+}
+
+.result-section{
+    height:100%;
+    width:100%;
+    border-style: solid;
+    border-color: lightgray;
+    display: flex;
+    flex-direction: column;
+}
+.website-result-section{
+    padding: 2%;
+}
+
+.result-section{
+    height: 100%;
+    width: 100%;
+    padding: 1%;
+    box-sizing: border-box;
+}
+
+.website-result-section{
+    display: flex;
+    flex-direction: row;
+}
+
+.website-url{
+    padding: 1%;
+    width:15%;
+}
+
+.website-textarea{
+    padding: 1%
+}
+
+.loading-screen{
+    height:100%;
+    width:100%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header{
+    height: 100%;
+    width: 100%;
+    padding:1%;
+    text-align:center;
+}
+
+.result-header{
+    padding:1%;
+    text-align:center
+}
+
+.loading-text{
+    height:100%;
+    width:50%;
+    font-size: 14px;
+    text-align: center;
+    color: black;
+    animation-name:blinking;
+    animation-duration: 2s;
+    animation-direction: normal;
+    animation-iteration-count: infinite;
+}
+
+@keyframes blinking{
+    0% {
+        color: rgb(255,255,255,0.5);
+        font-size: 15px;
+    }
+    20% {
+        color: rgb(255,255,255,0.6);
+        font-size: 20px;
+    }
+    50% {
+        color: rgb(255,255,255,0.8);
+        font-size: 25px;
+    }
+    100% {
+          color: rgba(207, 80, 80, 0.9);
+         font-size: 30px;
+    }
+}

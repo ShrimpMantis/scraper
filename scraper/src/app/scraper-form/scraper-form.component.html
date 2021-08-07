@@ -1,0 +1,32 @@
+<div class="header"><h1>Website scraper</h1></div>
+    <div class="container">
+        <div class="url-enty-section">
+            <label class="url-label">Enter Urls separated by commas</label>
+            <input class="urlInputBox" size="100" placeholder="enter url here like this pattern https://www.websitename.com" [(ngModel)]="urls" #ctrl="ngModel">
+            <button class="url-submit-button" (click)="submitClicked()" type="button" >
+              <span class="button-class-span">
+                  Scrape Website
+              </span>
+            </button>
+        </div>
+          
+          <div class="result-section">
+              <!-- //*ngIf="showLoading" -->
+              <h2 class="result-header">Scraped results</h2>
+            <div class="loading-screen" *ngIf="showLoading">
+                <div class="loading-text">Loading...</div>
+            </div>
+            <div class="result-list-container" *ngIf="!showLoading">
+                <div class="website-result-section" *ngFor="let result of resultsDictionary | keyvalue; index as i">
+                    <label class="website-url">{{result.key}}</label>
+                    <textarea class="website-textarea" rows="50" cols="90">
+                        {{result.value}}
+                    </textarea>
+                  </div>
+            </div>
+           
+          </div>
+
+    </div>
+    
+
