@@ -1,0 +1,9 @@
+C:\Users\Jimly\source\repos\WebScraperApi\WebScraperDownloader\bin\Debug\netcoreapp2.1\WebScraper.deps.json
+C:\Users\Jimly\source\repos\WebScraperApi\WebScraperDownloader\bin\Debug\netcoreapp2.1\WebScraper.dll
+C:\Users\Jimly\source\repos\WebScraperApi\WebScraperDownloader\bin\Debug\netcoreapp2.1\WebScraper.pdb
+C:\Users\Jimly\source\repos\WebScraperApi\WebScraperDownloader\obj\Debug\netcoreapp2.1\WebScraper.csprojAssemblyReference.cache
+C:\Users\Jimly\source\repos\WebScraperApi\WebScraperDownloader\obj\Debug\netcoreapp2.1\WebScraper.csproj.CoreCompileInputs.cache
+C:\Users\Jimly\source\repos\WebScraperApi\WebScraperDownloader\obj\Debug\netcoreapp2.1\WebScraper.AssemblyInfoInputs.cache
+C:\Users\Jimly\source\repos\WebScraperApi\WebScraperDownloader\obj\Debug\netcoreapp2.1\WebScraper.AssemblyInfo.cs
+C:\Users\Jimly\source\repos\WebScraperApi\WebScraperDownloader\obj\Debug\netcoreapp2.1\WebScraper.dll
+C:\Users\Jimly\source\repos\WebScraperApi\WebScraperDownloader\obj\Debug\netcoreapp2.1\WebScraper.pdb

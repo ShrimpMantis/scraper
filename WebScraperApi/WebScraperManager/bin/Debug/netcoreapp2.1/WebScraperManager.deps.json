@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "WebScraperManager/1.0.0": {
+        "dependencies": {
+          "WebScraperRetriever": "1.0.0",
+          "Microsoft.AspNetCore.Mvc.Core": "2.1.1.0"
+        },
+        "runtime": {
+          "WebScraperManager.dll": {}
+        }
+      },
+      "Models/1.0.0": {
+        "runtime": {
+          "Models.dll": {}
+        }
+      },
+      "WebScraperRetriever/1.0.0": {
+        "dependencies": {
+          "Models": "1.0.0",
+          "WebScraperTool": "1.0.0"
+        },
+        "runtime": {
+          "WebScraperRetriever.dll": {}
+        }
+      },
+      "WebScraperTool/1.0.0": {
+        "runtime": {
+          "WebScraperTool.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Mvc.Core/2.1.1.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Mvc.Core.dll": {
+            "assemblyVersion": "2.1.1.0",
+            "fileVersion": "2.1.1.18157"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebScraperManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebScraperRetriever/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebScraperTool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Mvc.Core/2.1.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

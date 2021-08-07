@@ -1,0 +1,14 @@
+C:\Users\Jimly\source\repos\WebScraperApi\WebScrapingToolUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jimly\source\repos\WebScraperApi\WebScrapingToolUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jimly\source\repos\WebScraperApi\WebScrapingToolUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jimly\source\repos\WebScraperApi\WebScrapingToolUnitTest\bin\Debug\netcoreapp2.1\WebScraperUnitTest.deps.json
+C:\Users\Jimly\source\repos\WebScraperApi\WebScrapingToolUnitTest\bin\Debug\netcoreapp2.1\WebScraperUnitTest.runtimeconfig.json
+C:\Users\Jimly\source\repos\WebScraperApi\WebScrapingToolUnitTest\bin\Debug\netcoreapp2.1\WebScraperUnitTest.runtimeconfig.dev.json
+C:\Users\Jimly\source\repos\WebScraperApi\WebScrapingToolUnitTest\bin\Debug\netcoreapp2.1\WebScraperUnitTest.dll
+C:\Users\Jimly\source\repos\WebScraperApi\WebScrapingToolUnitTest\bin\Debug\netcoreapp2.1\WebScraperUnitTest.pdb
+C:\Users\Jimly\source\repos\WebScraperApi\WebScrapingToolUnitTest\obj\Debug\netcoreapp2.1\WebScraperUnitTest.csprojAssemblyReference.cache
+C:\Users\Jimly\source\repos\WebScraperApi\WebScrapingToolUnitTest\obj\Debug\netcoreapp2.1\WebScraperUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Jimly\source\repos\WebScraperApi\WebScrapingToolUnitTest\obj\Debug\netcoreapp2.1\WebScraperUnitTest.AssemblyInfoInputs.cache
+C:\Users\Jimly\source\repos\WebScraperApi\WebScrapingToolUnitTest\obj\Debug\netcoreapp2.1\WebScraperUnitTest.AssemblyInfo.cs
+C:\Users\Jimly\source\repos\WebScraperApi\WebScrapingToolUnitTest\obj\Debug\netcoreapp2.1\WebScraperUnitTest.dll
+C:\Users\Jimly\source\repos\WebScraperApi\WebScrapingToolUnitTest\obj\Debug\netcoreapp2.1\WebScraperUnitTest.pdb
